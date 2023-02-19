@@ -1,6 +1,4 @@
-# Design-of-CMOS-based-high-gain-low-power-amplifier-circuit-for-the-amplification-of-bio-signals(viz., ECG, EEG, EHG, etc.) for
-
-various health monitoring applications.
+# Design-of-CMOS-based-high-gain-low-power-amplifier-circuit-for-the-amplification-of-bio-signals(viz., ECG, EEG, EHG, etc.) for various health monitoring applications.
 A biomedical device consists of different kinds of transducers, amplifiers, and signal processing
 instruments. Bio signals collected from the human body are characterized by very low
 amplitudes. Therefore, amplifiers play a vital role in the signal processing and utilization of these
